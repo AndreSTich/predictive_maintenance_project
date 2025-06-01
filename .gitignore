@@ -1,0 +1,14 @@
+__pycache__/
+.idea/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.python-version
+venv/
+env/
+.venv/
+*.env
+.streamlit/
+*.log
